@@ -1,0 +1,4 @@
+## StarProof
+
+- It is the best solution in terms of certifications offering credentials as a service. 
+- Real solutions for entities that need to issue certificates or credentials.
